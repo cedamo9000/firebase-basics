@@ -63,11 +63,12 @@ input {
 
 .error {
     text-align: center;
-    padding: 8px 42px;
+    padding: 8px 30px;
     border-radius: 5px;
     background: #f8d7da;
     position: absolute;
     margin-left: 22px;
+    width: 249px;
 }
 
 .phone-number {
